@@ -27,7 +27,7 @@ Pocket Science Labs Documentation
    tutorials/wavegenerator
    tutorials/powersource
    tutorials/luxmeter
-   tutorials/accelerometer
+   tutorials/accelerometer89
    tutorials/barometer
    tutorials/compass
    tutorials/gyroscope
@@ -48,4 +48,4 @@ Pocket Science Labs Documentation
    :caption: Collaborate!
    
    collaborate
-   template
+   template bhaskar
